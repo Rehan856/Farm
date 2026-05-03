@@ -32,37 +32,37 @@
     </div>
     
     <div class="gallery-item">
-        <img src="https://images.pexels.com/photos/5842228/veterinarian-giving-vaccine-to-chicken.jpg?auto=compress&cs=tinysrgb&w=600" alt="Veterinary Care">
+        <img src="image\poultry-farm-inspection-young-farmers-260nw-2713180703.webp">
         <div class="gallery-overlay">Professional Care</div>
     </div>
     
     <div class="gallery-item">
-        <img src="https://images.pexels.com/photos/9659896/chicken-eggs-in-cardboard-tray-close-up.jpg?auto=compress&cs=tinysrgb&w=600" alt="Egg Packaging">
+        <img src="image\download (1).jpeg">
         <div class="gallery-overlay">Quality Packaging</div>
     </div>
     
     <div class="gallery-item">
-        <img src="https://images.pexels.com/photos/1413440/agriculture-birds-chickens-farming-1413440.jpeg?auto=compress&cs=tinysrgb&w=600" alt="Feeding Time">
+        <img src="image\images (1).jpeg">
         <div class="gallery-overlay">Feeding Time</div>
     </div>
     
     <div class="gallery-item">
-        <img src="https://images.pexels.com/photos/4466460/photo-of-chickens-on-a-farm-4466460.jpeg?auto=compress&cs=tinysrgb&w=600" alt="Chickens">
+        <img src="image\images (2).jpeg">
         <div class="gallery-overlay">Our Lovely Chickens</div>
     </div>
     
     <div class="gallery-item">
-        <img src="https://images.pexels.com/photos/6129471/farmer-holding-chickens-in-poultry-farm-6129471.jpeg?auto=compress&cs=tinysrgb&w=600" alt="Farmer">
+        <img src="image\download (2).jpeg">
         <div class="gallery-overlay">Our Dedicated Farmers</div>
     </div>
     
     <div class="gallery-item">
-        <img src="https://images.pexels.com/photos/1522196/agriculture-chicken-poultry-barn-1522196.jpeg?auto=compress&cs=tinysrgb&w=600" alt="Farm Aerial">
+        <img src="image\download (3).jpeg">
         <div class="gallery-overlay">Farm Aerial View</div>
     </div>
     
     <div class="gallery-item">
-        <img src="https://images.pexels.com/photos/6261173/close-up-of-chicken-on-grass-6261173.jpeg?auto=compress&cs=tinysrgb&w=600" alt="Close Up Chicken">
+        <img src="image\white-chicken-face-closeup-blue-sky-9825829.webp">
         <div class="gallery-overlay">Close Up View</div>
     </div>
 </div>
